@@ -1,0 +1,24 @@
+.main_container {
+  /* width: 100vw; */
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.list_container {
+  margin: auto;
+  width: 200px;
+  border: 1px solid #000;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.list_item {
+  list-style: none;
+  text-align: left;
+}
+.list_candidate {
+  padding: 5px 10px;
+  border: 1px solid #000;
+}

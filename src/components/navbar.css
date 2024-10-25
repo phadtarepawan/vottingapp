@@ -1,0 +1,14 @@
+.flex_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(23, 23, 194);
+  color: #fff;
+}
+.flex_item {
+  flex: 1 1 auto;
+  text-align: center;
+}
+.flex_item2 {
+  margin-right: 10px;
+}
